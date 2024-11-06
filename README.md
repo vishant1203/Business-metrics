@@ -1,46 +1,36 @@
-# Business-metrics
-Business Metrics for insights and data driven decisions
-# Sales Report :
+## Business Unified Dashboard :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[Business 360 degree insights](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Business 360 degree insights]. The objective of this project is to develop a unified dashboard that offers actionable insights across key business functions(https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive insights in _[sales performace, financial status, marketing insights, supply chain analytics etc..](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive insights in _[sales performace, financial status, marketing insights, supply chain analytics etc..].By visualizing data for financial performance, marketing effectiveness, supply chain efficiency, and sales trends, this project aims to help stakeholders quickly identify growth opportunities, minimize inefficiencies, and make informed decisions to increase overall profitability.(https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of Sales performance visual:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Purpose of Financial Visual:** The financial view visual provides insights into revenue, expenses, and profitability trends over time. It enables stakeholders to monitor financial health, optimize budgeting, and make informed decisions for cost savings and profit maximization..
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Purpose of Marketing visuals:** This view focuses on campaign performance, customer engagement, and ROI analysis. By tracking marketing effectiveness, the business can identify successful campaigns, refine strategies, and maximize reach, ultimately boosting brand visibility and customer acquisition.
 
+- **Purpose of Supply Chain View:** The supply chain view highlights metrics like inventory levels, supplier performance, and lead times. It supports efficient resource management, minimizes stockouts, and ensures smooth production cycles, improving operational efficiency and reducing costs.
 
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Purpose of Sales View:** Sales view visualizes sales volume, revenue per product, and regional performance. It helps in understanding market demand, setting sales targets, and identifying high-performing products or regions, which drives increased revenue and profit growth.
 
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+
+- [x]	Data Importing and Connection Basics: Learning to connect Power BI to various data sources (Excel, SQL, web sources) and understanding basic data types.
+- [x]	Data Transformation with Power Query: Using Power Query for basic data cleaning tasks like removing duplicates, handling missing values, and renaming columns.
+- [x]	Creating Basic Visuals: Building simple charts, tables, and graphs (e.g., bar charts, line charts, pie charts) to represent data visually.
+- [x]	Data Modeling Basics: Understanding how to set up relationships between tables and using primary and foreign keys for a simple data model.
+- [x]	Intro to DAX (Data Analysis Expressions): Learning basic DAX formulas for simple calculations (e.g., SUM, AVERAGE) and creating basic calculated columns.
+- [x]	Filtering and Slicing: Setting up filters and slicers to allow users to interact with the data and view specific information.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
+- [x]	Analytical Thinking: The ability to break down a business problem and decide what data and visuals will best solve it.
+- [x]	Attention to Detail: Ensuring data is accurately represented and checking visuals for consistency.
+- [x]	Storytelling with Data: Understanding how to structure data in a way that tells a clear, impactful story and drives decision-making.
+- [x]	Curiosity and Continuous Learning: Having a mindset to explore Power BI features, read documentation, and learn from resources to improve skills.
+- [x]	Collaboration: Communicating with stakeholders or team members to understand data requirements and gather feedback on visualizations.
